@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Cytometry in R- starter questions
+# Cytometry in R
 
 Location: Oslo, Norway
 
